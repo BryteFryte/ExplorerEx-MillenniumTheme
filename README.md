@@ -14,19 +14,14 @@ ExplorerEx is an adaptation of Windows Explorer from Windows Server 2003's sourc
 In other words, this brings the classic Windows XP Start Menu/Taskbar experience to more modern versions of Windows (8.1+).
 
 ## Previews
-Below is what you might expect when first running ExplorerEx:
 
-<img width="800" height="600" alt="aero" src="https://github.com/user-attachments/assets/6bca7f97-e019-40cf-b06a-a0d6a30e5f1e" />
+<img width="800" height="600" alt="aero" src="PreviewImages/ThemedPreview.png" />
 
-*Default Windows 10 theme*
+*Themed with Classic Windhawk Mod*
 
-<img width="800" height="600" alt="classic" src="https://github.com/user-attachments/assets/72f5c240-8a7d-401f-977c-276d51d9824d" />
+<img width="800" height="600" alt="classic" src="PreviewImages/NoThemePreview.png" />
 
-*Classic theme using Windhawk*
-
-<img width="800" height="600" alt="luna" src="https://github.com/user-attachments/assets/1530f4fc-9249-4494-9ab0-2d0aef452687" />
-
-*Luna blue theme using [inactive theme Windhawk mod](https://raw.githubusercontent.com/kfh83/ExplorerEx/refs/heads/main/explorerex-inactive-theme-loader.wh.cpp)*
+*Unthemed*
 
 
 ## Installation
