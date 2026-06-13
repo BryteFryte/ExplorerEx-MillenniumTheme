@@ -7,7 +7,7 @@
  |______/_/\_\ .__/|_|\___/|_|  \___|_|  |______/_/\_\
              | |                                      
              |_|    
-  https://github.com/kfh83/ExplorerEx - ExplorerEx-2k
+  https://github.com/kfh83/ExplorerEx
 ```
 ExplorerEx is an adaptation of Windows Explorer from Windows Server 2003's source tree, making it independent from Microsoft's archaic build system, and also making it function on modern versions of Windows. 
 
@@ -15,7 +15,9 @@ This branch aims to replicate the looks and feel of the Windows 2000 explorer us
 
 ## Previews
 
-Coming soon!
+<img src="PreviewImages/ThemedPreview.png" width="100%">
+<br>
+<img src="PreviewImages/NoThemePreview.png" width="100%">
 
 ## Installation
 **TRYING OUT THE PROGRAM BEFORE INSTALLING**
